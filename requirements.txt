@@ -16,4 +16,5 @@ types-PyYAML
 pyYAML
 ensure
 python-box
+wandb
 -e .

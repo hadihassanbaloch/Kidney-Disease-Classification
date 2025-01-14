@@ -1,0 +1,31 @@
+{
+  "os": "Windows-11-10.0.22635-SP0",
+  "python": "CPython 3.12.6",
+  "startedAt": "2025-01-14T10:00:01.861700Z",
+  "program": "D:\\PythonProject\\End-to-EndProjects\\Kidney-Disease-Classification\\main.py",
+  "codePath": "main.py",
+  "git": {
+    "remote": "git@github.com:hadihassanbaloch/Kidney-Disease-Classification.git",
+    "commit": "a04d95c2f8804b0b939c7d73c4f9e450511a615b"
+  },
+  "email": "12hadihassan@gmail.com",
+  "root": "D:\\PythonProject\\End-to-EndProjects\\Kidney-Disease-Classification",
+  "host": "Personal-PC",
+  "executable": "D:\\PythonProject\\End-to-EndProjects\\Kidney-Disease-Classification\\.kdc\\Scripts\\python.exe",
+  "codePathLocal": "main.py",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "268538212352",
+      "used": "75156058112"
+    }
+  },
+  "memory": {
+    "total": "7949586432"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  }
+}

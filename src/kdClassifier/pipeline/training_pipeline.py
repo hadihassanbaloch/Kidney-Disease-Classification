@@ -1,6 +1,7 @@
 from kdClassifier import logger
 from kdClassifier.component.model_training import Training
 from kdClassifier.config.configuration import ConfigurationManager
+import wandb
 
 STAGE_NAME = 'Training Model'
 
@@ -8,6 +9,7 @@ class TrainingPipeline:
     def __init__(self):
         pass
     def main(self):
+        wandb.init(project="kidney-disease-classification", job_type="training")
         config = ConfigurationManager()
         training_config = config.get_training_config()
         training = Training(config=training_config)

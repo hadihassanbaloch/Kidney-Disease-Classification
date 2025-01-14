@@ -1,0 +1,1 @@
+{"_timestamp":1.7368488358120117e+09,"dataset_version":"v1.0","_runtime":33.9531457,"num_validation_samples":93,"stage":"Data Ingestion Stage","base_model":"artifacts\\prepare_base_model\\base_model.keras","_step":2,"num_training_samples":372,"_wandb":{"runtime":39}}
